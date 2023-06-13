@@ -1,3 +1,16 @@
+
+## Pendidikan dan Kursus Belajar
+
+<div style="display:flex;justify-content:start;align-items: center;">
+        <img src="https://koeliah.com/wp-content/uploads/2018/09/gunadarma.png" width="142"/>
+        <a style="margin-left:20px">Universitas Gunadarma (Sarjana Sistem Informasi)</a>
+</div>
+<div style="display:flex;justify-content:start;align-items: center;margin-top:50px;">
+        <img style="background-color:yellow;padding:10px;border-radius:10px" src="https://static.tildacdn.com/tild3835-6464-4536-b631-313337316166/141354.png" width="142"/>
+        <a style="margin-left:20px">Refocus (Data Analyst)</a>
+</div>
+
+
 ### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikiabdillah&label=Profile%20views&color=0e75b6&style=flat" alt="Dikiabdillah" /> </p>
 
