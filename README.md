@@ -33,7 +33,3 @@
 
 <a href = "https://github.com/dikiabdillah"><img src="https://github-readme-stats.vercel.app/api?username=dikiabdillah&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=false"></a><a href = "https://github.com/dikiabdillah"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikiabdillah&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515"></a>
 <br />
-
-
-<h4 align="left">Support:</h4>
-<h4 align="center">Show your support by starring ⭐ some of the repositories  ! </h4>
